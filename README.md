@@ -1,3 +1,8 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![React](https://img.shields.io/badge/React-18%2B-61dafb.svg)](https://reactjs.org/)
+[![GitHub stars](https://img.shields.io/github/stars/seadox/zerogram-ui)](https://github.com/Seadox/Zerogram-UI/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/seadox/zerogram-ui)](https://github.com/Seadox/Zerogram-UI/network/members)
+
 # Zerogram UI
 
 React-based web application for interacting with Telegram bots, featuring real-time messaging, file sharing, and comprehensive chat management capabilities.
