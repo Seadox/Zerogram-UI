@@ -29,7 +29,7 @@ This tool is provided solely for educational and research objectives. It aims to
 
 ```bash
 git clone https://github.com/Seadox/Zerogram-UI.git
-cd telegramChat
+cd Zerogram-UI
 ```
 
 2. Install dependencies:
