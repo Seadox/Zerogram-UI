@@ -9,8 +9,6 @@ React-based web application for interacting with Telegram bots, featuring real-t
 
 This project is based on the original [Zerogram](https://github.com/Seadox/Zerogram) repository by [Seadox](https://github.com/Seadox). This UI version provides a modern React-based interface with enhanced features and improved user experience.
 
-> **Note**: Looking for the CLI version? Check out the original command-line interface at [https://github.com/Seadox/Zerogram](https://github.com/Seadox/Zerogram)
-
 ## Disclaimer
 
 This tool is provided solely for educational and research objectives. It aims to assist cybersecurity experts in analyzing and understanding Telegram bot interactions. Any use for unlawful purposes or unauthorized access is strictly prohibited.
