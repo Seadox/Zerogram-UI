@@ -5,6 +5,10 @@
 
 # Zerogram UI
 
+<p align="center">
+  <img src="./public/favicon.svg" alt="Zerogram UI Logo" width="128" height="128">
+</p>
+
 React-based web application for interacting with Telegram bots, featuring real-time messaging, file sharing, and comprehensive chat management capabilities.
 
 This project is based on the original [Zerogram](https://github.com/Seadox/Zerogram) repository by [Seadox](https://github.com/Seadox). This UI version provides a modern React-based interface with enhanced features and improved user experience.
